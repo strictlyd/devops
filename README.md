@@ -4,7 +4,7 @@ This repository was created to provide a clearer sense of what concepts DevOps e
 
 ## Table of Contents
 
-1. System admistration
+1. System administration
 2. Cloud administration
 3. Configuration Management
 4. Continuous Integration and Deployment
