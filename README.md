@@ -7,8 +7,8 @@ This repository was created to provide a clearer sense of what concepts DevOps e
 1. System administration
 2. Cloud administration
 3. Automation
-4. Configuration Management
-5. Continuous Integration and Deployment
+4. Configuration management
+5. Continuous integration and deployment
 6. Infrastructure monitoring
 7. Application scaling
 
