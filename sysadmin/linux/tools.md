@@ -9,6 +9,13 @@ _Installation commands below are targetted for Debian/Ubuntu-based distributions
 ```apt-get install htop```
 - Similar to top, but with a more interactive interface
 
+###### atop
+```apt-get install atop```
+- A more advanced application for monitoring system resources with additional features for resource utilization logging,
+
+###### sar
+```apt-get install sysstat```
+
 ###### iotop
 ```apt-get install iotop```
 - A top-like monitor for disk I/O usage
