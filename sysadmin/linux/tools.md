@@ -23,3 +23,11 @@ _Installation commands below are targetted for Debian/Ubuntu-based distributions
 ###### ncdu
 ```apt-get install ncdu```
 - A disk usage analysis tool
+
+###### mytop
+```apt-get install mytop```
+- A top-like monitor for MySQL
+
+###### innotop
+```apt-get install innotop```
+- Another top-like monitor for MySQL
